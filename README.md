@@ -8,15 +8,14 @@ Saved for whoever needs it next, who is usually me.
 ## Index
 
 ```text
-001 = Personal, site, templates, paper format demos
-002 = Math and statistics
-003 = Healthcare and clinical informatics
-004 = Explainable ML and human-AI interaction
-005 = Economics
-006 = Sports analytics
-007 = Web
-008 = Java and C++
-009 = Experiments
+001 → About Barney
+002 → Math & Statistics
+003 → Economics
+004 → Sports Analytics
+005 → Biomedical Informatics
+006 → Frontend Engineering
+008 → Backend Engineering
+009 → Game Development
 ```
 
 <sub>Wander freely.<br>There are no signposts. 🪧</sub>
