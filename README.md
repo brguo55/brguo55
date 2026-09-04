@@ -1,16 +1,22 @@
-## Hi there 👋
+# Elen síla lúmenn' omentielvo
+> *No visitors expected, but you are welcome anyway.*
 
-<!--
-**brguo55/brguo55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Marginalia
 
-Here are some ideas to get you started:
+Saved for whoever needs it next, who is usually me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Index
+
+```text
+001 = Personal, site, templates, paper format demos
+002 = Math and statistics
+003 = Healthcare and clinical informatics
+004 = Explainable ML and human-AI interaction
+005 = Economics
+006 = Sports analytics
+007 = Web
+008 = Java and C++
+009 = Experiments
+```
+
+<sub>Wander freely.<br>There are no signposts.</sub>
