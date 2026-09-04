@@ -1,4 +1,4 @@
-# Elen síla lúmenn' omentielvo
+# Elen síla lúmenn' omentielvo ✦
 > *No visitors expected, but you are welcome anyway.*
 
 ## Marginalia
@@ -19,4 +19,4 @@ Saved for whoever needs it next, who is usually me.
 009 = Experiments
 ```
 
-<sub>Wander freely.<br>There are no signposts.</sub>
+<sub>Wander freely.<br>There are no signposts. 🪧</sub>
