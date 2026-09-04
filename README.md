@@ -1,5 +1,5 @@
 # Elen síla lúmenn' omentielvo ✦
-> *No visitors expected, but you are most welcome.*
+> *No visitors expected, but you are most welcome. ✌️*
 
 ## Marginalia
 
